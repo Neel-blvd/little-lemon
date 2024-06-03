@@ -5,10 +5,11 @@ import Hero from './components/Hero'
 import Testimonials from './components/Testimonials'
 import Footer from './components/Footer'
 import TableBooking from './components/TableBooking'
+import './index.css'
 
 function App() {
   return (
-    <div>
+    <div className='bg-gray-600 w-screen min-h-screen'>
       <Navbar />
       <Routes>
         <Route path='/' element={<Hero />} />
