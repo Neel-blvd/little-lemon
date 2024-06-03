@@ -4,7 +4,7 @@ import logo from '../public/logo.png'
 
 function Navbar() {
   return (
-    <nav className='bg-black text-white'>
+    <nav className='bg-black text-white border-b'>
         <ul className='flex pl-5 p-2'>
             <Link to='/'>
                 <li>
