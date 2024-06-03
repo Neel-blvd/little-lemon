@@ -4,7 +4,7 @@ import barbecue from '../public/barbecue.jpg'
 
 function Hero() {
   return (
-    <div className='flex justify-center space-x-32'>
+    <div className='flex justify-center space-x-32 mt-5'>
         <div>
           <p className='text-yellow-300 text-4xl font-bold pb-1'>Little Lemon</p>
           <p className='text-white text-xl pb-5'>Nashville</p>

@@ -9,7 +9,7 @@ import './index.css'
 
 function App() {
   return (
-    <div className='bg-gray-600 w-screen min-h-screen'>
+    <div className='bg-gray-600 min-h-screen'>
       <Navbar />
       <Routes>
         <Route path='/' element={<Hero />} />
