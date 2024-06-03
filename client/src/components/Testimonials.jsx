@@ -15,15 +15,15 @@ function Testimonials() {
               </p>
           </div>
           <div>
-              <img src={creedBratton} width='250' className='rounded-full p-3'></img>
-              <p className='w-60'>
-                This place has come a long way since I started this in the fifties, with my son.
-              </p>
-          </div>
-          <div>
               <img src={idrisElba} width='250' className='rounded-full p-3'></img>
               <p className='w-60'>
                 This food has the same effect on me, as I have on women.
+              </p>
+          </div>
+          <div>
+              <img src={creedBratton} width='250' className='rounded-full p-3'></img>
+              <p className='w-60'>
+                This place has come a long way since I started this in the fifties, with my son.
               </p>
           </div>
       </div>
